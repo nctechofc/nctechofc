@@ -1,4 +1,4 @@
-[![NC Tech](https://github.com/nctechofc/nctechofc/blob/main/img/github-icon.jpg?raw=true)](https://github.com/nctechofc/nctechofc)
+[![NC Tech](https://github.com/nctechofc/nctechofc/blob/main/github-icon.jpg?raw=true)](https://github.com/nctechofc/nctechofc)
 <h1 align="center"> Hi, I'm NC! :wave:</h1>
 <p align="center">Im A JavaScript and Cyber Security Enthusiast</p>
 <p align="center">
